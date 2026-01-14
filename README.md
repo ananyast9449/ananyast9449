@@ -80,10 +80,10 @@ Atria Institute of Technology
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ananyast9449&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyast9449&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
