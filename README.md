@@ -83,7 +83,7 @@ Atria Institute of Technology
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ananyast9449&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyast9449&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 ---
